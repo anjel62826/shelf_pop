@@ -2,6 +2,11 @@
 
 ShelfPop is a Library Book Lending Manager built with MongoDB Atlas, Express, React (Vite) and Node.
 
+## Live Links
+
+- Frontend: https://frontend-shec.vercel.app/
+- Backend API: https://shelf-pop.onrender.com
+
 ## Run the project
 
 Backend (terminal 1):
@@ -41,8 +46,13 @@ Every response has the shape `{ success, message, data }`.
 
 ## Screenshots
 
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Add Book
+![Add Book](screenshots/add-book.png)
+
+### Loan history with fine
 ![Loan history](screenshots/loans.png)
 
 ## Assumptions
