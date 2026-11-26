@@ -71,13 +71,13 @@ Toast messages, delete confirmation dialog, coloured category chips, sort, stat 
 
 ## Test checklist
 
-- [ ] Add a book; the code looks like LB-TEC-001
-- [ ] Same ISBN again shows the duplicate message
-- [ ] Issue, then issue again to the same member (rejected)
-- [ ] Issue with a date 20 days ago; Overdue badge shows
-- [ ] Return it; fine is Rs 30; second return is rejected
-- [ ] Edit cannot go below issued copies
-- [ ] Delete is disabled while a copy is issued
-- [ ] Search, category, Available only, pagination
-- [ ] Stats update after every action
-- [ ] Layout works at 375px
+- [x] Add a book; the code looks like LB-TEC-001
+- [x] Same ISBN again shows the duplicate message
+- [x] Issue, then issue again to the same member (rejected)
+- [x] Issue with a date 20 days ago; Overdue badge shows
+- [x] Return it; fine is Rs 30; second return is rejected
+- [x] Edit cannot go below issued copies
+- [x] Delete is disabled while a copy is issued
+- [x] Search, category, Available only, pagination
+- [x] Stats update after every action
+- [x] Layout works at 375px
